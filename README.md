@@ -23,7 +23,7 @@ XLSX Viewer is a powerful **Visual Studio Code** extension that allows users to 
 Alternatively, you can install it manually using:
 
 ```
-code --install-extension xlsx-viewer
+code --install-extension muhammad-ahmad.xlsx-viewer
 ```
 
 ## 📖 Usage
