@@ -2,7 +2,7 @@
   "name": "xlsx-viewer",
   "displayName": "XLSX Viewer",
   "description": "View styles, fonts, and color in XLSX files directly within VS Code. This extension automatically applies formatting, including cell colors, text styles, and fonts, for an accurate spreadsheet preview without needing Excel. Perfect for developers and analysts who work with styled spreadsheets.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "muhammad-ahmad",
   "engines": {
     "vscode": "^1.98.0"
